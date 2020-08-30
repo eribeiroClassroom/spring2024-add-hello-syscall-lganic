@@ -2,7 +2,7 @@
 Base kernel suitable for Assignment on adding system calls
 
 This repository is the `src` folder of OS/161. This `src/` is especially designed for this assignment. 
-Close this repository from insider `~/os161` so it exists at the same level of the already existing `src/` directory. 
+Clone this repository from inside `~/os161` so it exists at the same level of the already existing `src/` directory. 
 
 Once you clone the repository, you will see that it will have a long name, something like `fall2020-assignment-01-os-161-code-reading-<your-github_username>`, e.g., the cloned repository name for github user `brucewayne` would be named `fall2020-assignment-01-os-161-code-reading-brucewayne`. Despite its name, this directory is actually your 'src/' for your new OS/161 kernel (the new 'src/' you will use for the assignment). 
 
